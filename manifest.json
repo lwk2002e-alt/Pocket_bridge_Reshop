@@ -1,0 +1,26 @@
+{
+  "name": "리샵 상품 등록기",
+  "short_name": "리샵 등록",
+  "description": "리샵 매장 상품 촬영 → Pocket 엑셀 자동 생성",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d0d0d",
+  "theme_color": "#0d0d0d",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "shopping"],
+  "lang": "ko"
+}
